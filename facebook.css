@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(240,242,245);
+}
+.face img {
+    width: 27%;
+    margin-top: 130px;
+    margin-left: 80px;
+}
+.f1{
+    width: 45%;
+    margin-left: 108px;
+    margin-top: -16px;
+    font-weight: lighter;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    width: 320px;
+    height: 288px;
+    background-color:white;
+    margin-left: 55%;
+    margin-top: -150px;
+    border-radius: 2%;
+    box-shadow: 0px 0px 2px;
+}
+input{
+    width: 300px;
+    margin-top: 8px;
+    padding: 12px;
+    margin-left: 10px;
+    border-radius: 4px;
+    border: 0.5px solid rgb(221,223,226);
+    background-color: white;
+    color: rgb(158,148,156);
+    font-weight: lighter;
+}
+.but{
+    width: 300px;
+    margin-top: 10px;
+    padding: 12px;
+    margin-left: 10px;
+    border-radius: 4px;
+    background-color:rgb(24,119,242);
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: bolder;
+    color: white;
+}
+.Forgotten {
+    margin-left: 33%;
+    color: rgb(24, 119, 207);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: lighter; 
+    background: none;
+}
+
+.sign-up{
+    width: 150px; 
+    margin-left: 28%;
+    padding: 13px;
+    border-radius: 5px;
+    background-color: rgb(66,183,42);
+    border: none;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+}
+.sign-up a{
+    text-decoration: none;
+    background: none;
+    color: white;
+}
+.page a{
+    width: 90px;
+    margin-left: 58%;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(28,30,33);
+    text-decoration: none;
+}
+.page p{
+    width: 230px;
+    margin-left: 65.5%;
+    font-size: 12px;
+    margin-top: -15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: lighter;
+}
