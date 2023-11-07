@@ -1,0 +1,213 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(206, 206, 221);
+    box-sizing: border-box;
+}
+.f1{
+    width: 340px;
+    height: 70px;
+    background-color: white;
+    margin-top: 35px;
+    margin-left: 33%;
+}
+.f1 h1{
+    width: 150px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.f1 h3{
+    width: 190px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: lighter;
+}
+.f1 img{
+    background-color: white;
+    width: 20px;
+    transform: translate(305px, -50px);
+}
+.f2{
+    width: 340px;
+    height: 360px;
+    background-color: white;
+    margin-bottom: 9px;
+    margin-left: 33%;
+}
+input{
+    width: 153px;
+    padding: 8px;
+    margin-left: 10px;
+    border-radius: 3px;
+    background-color: rgb(245,246,247);
+    border: 1px solid rgb(204,208,213);
+}
+.Mobile{
+    width: 320px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 3px;
+    background-color: rgb(245,246,247);
+    border: 1px solid rgb(204,208,213);
+}
+.new{
+    width: 320px;
+    padding: 8px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: rgb(245,246,247);
+    border: 1px solid rgb(204,208,213);
+} 
+.date{
+    width: 120px;
+    background-color: white;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: lighter;
+}
+.sel{
+    width: 98px;
+    padding: 5px;
+    margin-left: 10px;
+    color: black;
+    background-color: white;
+    border: 1px solid rgb(204,208,213);
+    border-radius: 3px;
+} 
+.f2 option{
+    background-color: white;
+}
+.dat{
+    width: 120px;
+    background-color: white;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: lighter;
+}
+.gen{
+    width: 103px;
+    height: 28px;
+    margin-left: 10px;
+    border-radius: 3px;
+    background-color: white;
+    border: 1px solid rgb(204,208,213);
+}
+.mal{
+    width: 103px;
+    height: 28px;
+    margin-left: 120px;
+    margin-top: -28px;
+    border-radius: 3px;
+    background-color: white;
+    border: 1px solid rgb(204,208,213);
+}
+.gen p{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 5px;
+}   
+.rad{
+    background-color: white;
+    width: 10px;
+    margin-left: 85px;
+    /* margin-top: -10px; */
+    transform: translate(2px, -15px);
+}
+.mal p{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.mard{
+    background-color: white;
+    width: 10px;
+    margin-left: 85px;
+    /* margin-top: -10px; */
+    transform: translate(2px, -15px);
+}
+.cust{
+    width: 103px;
+    height: 28px;
+    margin-left: 230px;
+    margin-top: -28px;
+    border-radius: 3px;
+    background-color: white;
+    border: 1px solid rgb(204,208,213);
+}
+.cust p{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.cus{
+    background-color: white;
+    width: 10px;
+    margin-left: 85px;
+    /* margin-top: -10px; */
+    transform: translate(2px, -15px);
+}
+.f3{
+    background-color: white;
+    font-size: 9px;
+    width: 310px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.more{
+    background-color: white;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: rgb(95, 95, 233);
+    text-decoration: none;
+    margin-left: 2px;
+}
+.f4{
+    background-color: white;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+.f4 a{
+    background-color: white;
+    text-decoration: none;
+    color: rgb(95, 95, 233);
+}
+.up{
+    width: 135px;
+    height: 30px;
+    border: 1px solid white;
+    margin-left: 92px;
+    border-radius: 3px;
+    background-color: rgb(0,164,0);
+}
+.up p{
+    background-color: rgb(0,164,0);
+    margin-left: 35px;
+    margin-top: 5px;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
